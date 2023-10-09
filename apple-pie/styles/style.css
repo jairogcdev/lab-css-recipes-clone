@@ -22,10 +22,6 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
-.screen {
-  padding: 0 250px 0 250px;
-}
-
 .header {
   background-image: url('../images/apple-pie.jpg');
   background-repeat: no-repeat;
@@ -49,13 +45,13 @@ h2 {
 }
 
 #main-section p {
-  margin: 20px 100px 20px 100px;
+  margin: 20px 150px 20px 150px;
   padding: 90px 0 30px 0;
-  font-size: 2.2em;
+  font-size: 2.5em;
 }
 
 hr {
-  width: 80%;
+  width: 85%;
   height: 5px;
   background-color: gray;
 }
