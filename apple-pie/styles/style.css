@@ -26,9 +26,8 @@ body {
   background-image: url('../images/apple-pie.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  height: 930px;
-  width: 100%;
-  margin-top: -110px;
+  height: 1100px;
+  background-position: 0 -150px;
 }
 
 h1 {
@@ -37,7 +36,7 @@ h1 {
   display: flex;
   justify-content: center; 
   padding: 425px;
-  font-size: 6em;
+  font-size: 8em;
 }
 
 h2 {
